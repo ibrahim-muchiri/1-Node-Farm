@@ -1,0 +1,62 @@
+[
+   {
+       "id": 0,
+       "productName": "Fresh Avocados",
+       "image": "🥑",
+       "from": "Spain",
+       "nutrients": "Vitamin B, Vitamin K",
+       "Quantity": "4 🥑",
+       "price": "6.50",
+       "organic": true,
+       "description": "The fruit has smooth texture but its not sweet atall." 
+   },
+
+   {
+    "id": 1,
+    "productName": "Goat and sheep Cheese",
+    "image": "🍕",
+    "from": "Kenya",
+    "nutrients": "Vitamin A, Calcium",
+    "Quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Its very sweet and many people enjoy it across the world!." 
+},
+
+{
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Londan",
+    "nutrients": "Vitamin C, Vitamin K",
+    "Quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Hearty and tasty vegetable. its most nutritional type of vegetable" 
+},
+
+{
+    "id": 3,
+    "productName": "Carrots",
+    "image": "🥕",
+    "from": "Tanzania",
+    "nutrients": "Vitamin A, Vitamin K",
+    "Quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "Its a root vegetable which help people to see farf🤣. Its very nutricious." 
+},
+
+{
+    "id": 4,
+    "productName": "Maize",
+    "image": "🌽",
+    "from": "Uganda",
+    "nutrients": "Vitamin C, Magnesium",
+    "Quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "It also known as Sweet Corncobs. It helps to provide our body with energy." 
+}
+
+]

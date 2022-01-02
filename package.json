@@ -1,0 +1,11 @@
+{
+  "name": "1-node-farm",
+  "version": "1.0.0",
+  "description": "a project using Html, CSS, JS and NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim Muchiri",
+  "license": "ISC"
+}
